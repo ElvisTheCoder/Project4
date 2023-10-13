@@ -6,5 +6,13 @@ Fertility rates are quickly declining around the develop world. Most alarming, f
 
 ## Methodology
 For this project, we decided to look at what studies point to be the biggest factors in determining fertility. We decide to look for datasets around the topics of GDP per capita, higher education, life expectancy, fertility, and population in order to regress a model that can predict fertility rates of countries and look for the factors that weigh the most. Because of cultural diversity, we wanted to look at a large range of countries. We decided to use the G20 countries as our baseline do the the ease of getting data and so that we will have a large enough dataset to regress. We are also looking for datasets that go as far back as the 50's. These datasets allowed us to reach the following results.
+GDP per Capita:
+![image](https://github.com/ElvisTheCoder/Project4/assets/53246846/11a991d6-c490-44db-9aa5-c647b376c691)
+
+Tertiary Education reached by women:
+![image](https://github.com/ElvisTheCoder/Project4/assets/53246846/7ebba6b0-825e-4834-add0-5525f4182827)
+
+Life Expectancy At birth:
+![image](https://github.com/ElvisTheCoder/Project4/assets/53246846/bc76a2b9-b90b-4a73-9838-1e11ca22412b)
 
 ## Results
