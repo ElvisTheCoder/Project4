@@ -16,3 +16,12 @@ Life Expectancy At birth:
 ![image](https://github.com/ElvisTheCoder/Project4/assets/53246846/bc76a2b9-b90b-4a73-9838-1e11ca22412b)
 
 ## Results
+
+
+
+
+
+## Presentacion
+
+Feel free to review the PPT presented in class:
+https://1drv.ms/p/s!AgeEaj6OXGpOgpkVfscz6V8svuL-mQ?e=IrrsxM
