@@ -11,6 +11,19 @@ For this project, we decided to look at what studies point to be the biggest fac
 Tableau Link: https://public.tableau.com/views/Project4_16975781631650/EducationandPopulationDensity?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 <img width="835" alt="Diagram1" src="https://github.com/ElvisTheCoder/Project4/assets/59103474/41f42289-28e0-4c53-bb6b-6ca208b48f97">
+Description of the Graph:
+
+The graph presents two scatter plots comparing fertility rates to two different metrics for the year 1972:
+
+1. Fertility vs Infant Mortality:
+
+As countries get wealther they get better health care and lower Infant mortality rates and women reponde by having less kids up and past the erplacement rate of 2.1 childern per women.
+
+3. Fertility vs GDP per Capita:
+
+As countrues before wealther at a person basis women have less kids 
+
+
 
 
 <img width="832" alt="Diagram2" src="https://github.com/ElvisTheCoder/Project4/assets/59103474/aff5212b-8fc8-4a25-ad84-f2d4cd83f5e1">
