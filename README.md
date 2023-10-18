@@ -11,6 +11,14 @@ For this project, we decided to look at what studies point to be the biggest fac
 <img width="835" alt="Diagram1" src="https://github.com/ElvisTheCoder/Project4/assets/59103474/41f42289-28e0-4c53-bb6b-6ca208b48f97">
 
 
+<img width="832" alt="Diagram2" src="https://github.com/ElvisTheCoder/Project4/assets/59103474/aff5212b-8fc8-4a25-ad84-f2d4cd83f5e1">
+
+
+<img width="836" alt="Diagram3" src="https://github.com/ElvisTheCoder/Project4/assets/59103474/dc414bb8-c21c-43c1-a404-28a9754ef286">
+
+
+<img width="832" alt="map" src="https://github.com/ElvisTheCoder/Project4/assets/59103474/5b5e8ea8-4c47-4175-ac9b-88cd7ad923f9">
+
 
 ## Results
 
