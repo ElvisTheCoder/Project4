@@ -5,11 +5,33 @@
 Fertility rates are quickly declining around the develop world. Most alarming, fertility rates have decreased to below replacement level of 2.1 children. A number of factors contribute to this decline. The declining fertility rate seen in industrialized, developted nations is of grave concern for long term nation building. Declining fertility rates means that the future workforce will be smaller, and in term, a larger percentage of the income of the working population will be dedicated to maintain infratructure, healthcare, and pension schemes. Thus it is vital for long term survivability of a nation that its population continues to grow or atleast maintain in order to avoid economic and demographic collapse.
 
 ## Variables 
-- Population Density =
-- Infant Mortality =
-- GDP per Capita =
-- Life Expectancy =
-- Female College Rate =
+- Population Density:
+
+Description: This metric represents the number of people per unit area, usually per square kilometer or square mile.
+Potential Relationship with Fertility Rate:
+Higher population density might be associated with lower fertility rates due to urbanization, limited living spaces, higher living costs, and changing lifestyles.
+On the other hand, in less developed areas with high population density, there might still be high fertility rates due to cultural norms or lack of access to education and family planning resources.
+
+- Infant Mortality:
+
+Description: This represents the number of infant deaths (children under the age of 1) per 1,000 live births in a given year.
+Potential Relationship with Fertility Rate:
+Historically, higher infant mortality rates have been associated with higher fertility rates as parents might have more children expecting some of them may not survive to adulthood.
+As healthcare improves and infant mortality decreases, families might feel more confident that their children will survive, leading to a decline in fertility rates.
+
+- GDP per Capita:
+
+Description: This is the economic output of a nation divided by its population, indicating the average economic productivity of each citizen.
+Potential Relationship with Fertility Rate:
+Higher GDP per capita often indicates a more developed economy, where education, career opportunities, and cost of living might lead to a decline in fertility rates.
+Women in countries with higher GDP per capita might delay childbearing in favor of education and career.
+
+- Life Expectancy:
+
+Description: This metric represents the average number of years a newborn is expected to live, assuming that current mortality rates remain constant throughout their life.
+Potential Relationship with Fertility Rate:
+Higher life expectancy often indicates better healthcare, nutrition, and overall quality of life. This might be correlated with a decrease in fertility rates as people prioritize quality of life for fewer children over having many offspring.
+Moreover, with a longer life expectancy, the idea of having children might not be as urgent, leading to family planning and smaller family sizes.
 
 
 ## Methodology
