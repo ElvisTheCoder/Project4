@@ -4,6 +4,9 @@
 ## Context
 Fertility rates are quickly declining around the develop world. Most alarming, fertility rates have decreased to below replacement level of 2.1 children. A number of factors contribute to this decline. The declining fertility rate seen in industrialized, developted nations is of grave concern for long term nation building. Declining fertility rates means that the future workforce will be smaller, and in term, a larger percentage of the income of the working population will be dedicated to maintain infratructure, healthcare, and pension schemes. Thus it is vital for long term survivability of a nation that its population continues to grow or atleast maintain in order to avoid economic and demographic collapse.
 
+## Question
+Can we predict fertility rates with what are considered the biggest factors determining fertility?
+
 ## Variables 
 - Population Density:
 
@@ -33,6 +36,8 @@ Potential Relationship with Fertility Rate:
 Higher life expectancy often indicates better healthcare, nutrition, and overall quality of life. This might be correlated with a decrease in fertility rates as people prioritize quality of life for fewer children over having many offspring.
 Moreover, with a longer life expectancy, the idea of having children might not be as urgent, leading to family planning and smaller family sizes.
 
+-Tertiary Education:
+Description: Measure the percentage of women in the 24-36 age group that hold a tertiary level of education. By dedicating more time in furthering their education, they are more likely to prioritize career than family.
 
 ## Methodology
 For this project, we decided to look at what studies point to be the biggest factors in determining fertility. We decide to look for datasets around the topics of GDP per capita, higher education, life expectancy, fertility, and population in order to regress a model that can predict fertility rates of countries and look for the factors that weigh the most. Because of cultural diversity, we wanted to look at a large range of countries. We decided to use the G20 countries as our baseline do the the ease of getting data and so that we will have a large enough dataset to regress. We are also looking for datasets that go as far back as the 50's. These datasets allowed us to reach the following results.
@@ -82,7 +87,16 @@ The map shows that all the G20 countries are effected by these varibles but just
 
 ## Results
 
+because of our continous variables, we focused our efforts in lineal regression and random forest models. Because of missing data, we tried two different approaches. One was removing all the years that did not have values and the second was filling the empty values with a median of the column. The results show that the best model was obtained when we removed the null values in a lineal regression.
 
+
+![image](https://github.com/ElvisTheCoder/Project4/assets/53246846/ebe468a8-164e-4b31-b6c7-a2a0a34a1a99)
+
+![image](https://github.com/ElvisTheCoder/Project4/assets/53246846/6ce4b433-18a5-4c6a-8902-158dad318c44)
+
+And lastly, we found that the largest correlation to lower fertility was life expectacion, follow by GDP:
+
+![image](https://github.com/ElvisTheCoder/Project4/assets/53246846/3c93c618-601b-4fe5-96e1-02e3de3a08e5)
 
 
 
